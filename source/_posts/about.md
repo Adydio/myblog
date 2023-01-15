@@ -2,10 +2,11 @@
 title: about
 layout: about
 permalink: about.html
+indexing: false
 ---
 
-# 关于董董
+# About Me
 
 这是我哦~
 
-![](/images/head/head.jpg)
+![scale=60%](/images/head/head_.png)
