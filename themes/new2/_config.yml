@@ -38,9 +38,9 @@ menu:
   文章归档:
     - /archives.html
     - icon-hanbao1
-#  关于董董:
-#    - /about.html
-#    - icon-jiubei1
+  关于董董:
+    - /about.html
+    - icon-jiubei1
 #  我的朋友:
 #    - /friend.html
 #    - icon-cola
@@ -127,8 +127,10 @@ gitment:
   clientSecret:  # GitHub Client Secret
 
 valine:
-  appId: r5zxC0st0DDjPA9auXzMV7HY-gzGzoHsz # leancloud application app id
-  appKey: 3bqCsovpyfTPHUzTHovd3V3V # leancloud application app key
+  #appId: r5zxC0st0DDjPA9auXzMV7HY-gzGzoHsz # leancloud application app id
+  appId: EBuUWVOM3bxwekJHEj4deiJe-gzGzoHsz
+  #appKey: 3bqCsovpyfTPHUzTHovd3V3V # leancloud application app key
+  appKey: LWLyAVTDSNVGtheJVkXhOMI8
 
 disqus:
   shortname: <shortname> # 你的 Disqus shortname

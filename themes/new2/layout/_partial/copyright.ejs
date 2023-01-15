@@ -1,6 +1,6 @@
 <% if (page.hide_copyright !== true && theme.copyright || page.copyright) { %>
   <div class="nexmoe-post-copyright">
-    <strong><%- __('copyright.author') %>：</strong><%= page.author || config.author  %><br>
+    <strong><%- __('copyright.author') %>：</strong><%= page.author %><br>
     <% if (page.from) { %>
       <strong><%- __('copyright.from') %>：</strong><%- link_to(page.from, page.from, {external: true}) %><br>
     <% } %>
