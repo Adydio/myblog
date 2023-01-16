@@ -104,8 +104,16 @@ theme: new2
 deploy:
   type: ''
 
+<<<<<<< HEAD
 #search:
 #  path: search.xml
 #  field: post
 #  content: true
 #  template: ./search.xml
+=======
+# search:
+#   path: search.xml
+#   field: post
+#   content: true
+#   template: ./search.xml
+>>>>>>> 2ae078982b0fe990d1f63f1471a97d6d62f84193
