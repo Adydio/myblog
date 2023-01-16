@@ -41,6 +41,9 @@ menu:
   关于我:
     - /about.html
     - icon-jiubei1
+  站点介绍:
+    - /introduction.html
+    - icon-cola
 #  我的朋友:
 #    - /friend.html
 #    - icon-cola
