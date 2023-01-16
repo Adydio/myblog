@@ -38,7 +38,7 @@ menu:
   文章归档:
     - /archives.html
     - icon-hanbao1
-  关于董董:
+  关于我:
     - /about.html
     - icon-jiubei1
 #  我的朋友:
@@ -183,7 +183,7 @@ daovoice:
   #app_id: 250cb4aa
   app_id: b420aebb
 # 不蒜子访客统计
-busuanzi: false
+busuanzi: true
 # 扩展挂件
 pendants:
   - clock #时钟

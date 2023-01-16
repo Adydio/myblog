@@ -7,7 +7,7 @@ title: adydio's space
 subtitle: ''
 description: ''
 keywords:
-author: andym
+author: adydio
 language: zh-CN
 timezone: ''
 
@@ -104,8 +104,8 @@ theme: new2
 deploy:
   type: ''
 
-search:
-  path: search.xml
-  field: post
-  content: true
-  template: ./search.xml
+#search:
+#  path: search.xml
+#  field: post
+#  content: true
+#  template: ./search.xml

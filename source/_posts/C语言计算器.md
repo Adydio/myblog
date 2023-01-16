@@ -3,6 +3,7 @@ title: C语言计算器
 tags:
 - 数据结构
 - C语言
+categories: 一些代码
 ---
 # 基于栈的计算器（C语言）
 
