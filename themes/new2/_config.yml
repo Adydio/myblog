@@ -202,4 +202,6 @@ qweather:
   borderRadius: 15
   key: f74d1e1690e6432d801e97fa2f05a162
 
-
+mathjax:
+  enable: true
+  per_page: false
