@@ -20,7 +20,7 @@ coverHeight: 320
 
 ### 站点的搭建（非教程）
 
-建立个人博客我参考了b站的[视频](https://www.bilibili.com/video/BV1qD4y1z783)，及其对应[博文](https://blog.cuijiacai.com/blog-building)。在主题的选取上借用了[tangyuxian](https://github.com/tangyuxian)的[hexo-theme-tangyuxian](https://github.com/tangyuxian/hexo-theme-tangyuxian)主题，我觉得非常棒！在此感谢上述作者和up主，我作为前端小白能凭兴趣搭建好这个网站离不开这些视频和博文的帮助。
+建立个人博客我参考了b站的[视频](https://www.bilibili.com/video/BV1qD4y1z783)，及其对应[博文](https://blog.cuijiacai.com/blog-building)。在主题的选取上借用了[tangyuxian](https://www.tangyuxian.com)的[hexo-theme-tangyuxian](https://github.com/tangyuxian/hexo-theme-tangyuxian)主题，我觉得非常棒！在此感谢上述作者和up主，我作为前端小白能凭兴趣搭建好这个网站离不开这些视频和博文的帮助。
 
 建立站点前前后后花了我快两天的时间，遇到了不少bug，好在之前有过写flask的一点点经验，这次哪怕没学过相关知识，照葫芦画瓢也能把网站打理的比较像样。框架用的是hexo，并且利用netlify进行了托管部署，再在阿里云上买了个三年期限的域名，大概就是这么个流程。中途用别的主题因为种种原因换了一个又一个，也失败过几次，最终用这个主题完成了部署。
 
