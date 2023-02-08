@@ -1,4 +1,4 @@
-avatar: /images/head/head.jpg # 网站 Logo
+avatar: /images/head/head_.jpg # 网站 Logo
 background: # 既是博客的背景，又是文章默认头图
   path: /images/background/xiaomai.jpg
   character: 
@@ -7,7 +7,7 @@ background: # 既是博客的背景，又是文章默认头图
   autoCoverWidth: 1200
   autoCoverHeight: 320
 favicon:
-  href: /images/head/head.jpg # 网站图标
+  href: /images/head/head_.jpg # 网站图标
   type: image/png # 图标类型，可能的值有(image/png, image/vnd.microsoft.icon, image/x-icon, image/gif)
 
 function: # 功能开关，可选值（true,false）
